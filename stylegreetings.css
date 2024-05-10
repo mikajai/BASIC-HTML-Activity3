@@ -1,0 +1,23 @@
+h1{
+    color: rgb(136, 63, 63);
+    margin-top: 14%;
+    margin-bottom: 0%;
+    margin-left: 32%;
+    font-size: 350%;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+h3{
+    color: rgb(77, 10, 10);
+    margin-top: 2%;
+    margin-bottom: 3%;
+    margin-left: 37.5%;
+    font-size: 180%;
+}
+
+p{
+    margin-top: 1%;
+    margin-bottom: 10%;
+    margin-left: 39%;
+    font-size: 500%;
+}
